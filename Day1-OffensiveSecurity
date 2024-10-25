@@ -1,0 +1,40 @@
+# Day 1 - Offensive Security & My First Hack
+
+## Overview
+Today, I began my journey into offensive security through TryHackMe's introductory room. I learned about simulating hacker actions to find vulnerabilities and gain unauthorized access to systems, focusing on key offensive security methodologies.
+
+## Key Takeaways
+- **Offensive Security**: Involves simulating the actions of a hacker to find and exploit vulnerabilities in systems.
+- **Ethical Hacking**: The purpose is to identify loopholes and report them, so they can be addressed by the defensive security team.
+
+## Hands-On Experience: My First Hack
+I performed my first hack using the command line, a powerful tool for interacting directly with the operating system.
+
+### Skills Practiced:
+1. **Hidden Page Enumeration**: Discovered hidden pages to access sensitive areas using tools:
+   - **Gobuster**: Helped in brute-forcing and discovering hidden directories and pages.
+   - **Nikto**: Used for scanning the target website to identify vulnerabilities.
+   - **WPScan**: Focused on identifying weaknesses in WordPress sites.
+  
+2. **Gained Access**: Successfully located hidden pages on the target website, which gave me access to sensitive data and admin controls.
+
+3. **Transferred Fake Money**: Completed a mock scenario where I "transferred" (fake) money to my account, experiencing the offensive approach in a safe environment.
+
+## Tools Used
+- **Gobuster**: Command-line tool for directory and file brute-forcing.
+- **Nikto**: Web server scanner to detect vulnerabilities.
+- **WPScan**: Tool for enumerating WordPress sites.
+
+## Reflection
+This introductory challenge gave me a firsthand look at the offensive side of cybersecurity and provided practical skills in website enumeration. I'm excited to move forward, exploring more advanced techniques and defensive security in the next room.
+
+---
+
+### Next Up
+In my next module, I’ll be diving into **Intro to Defensive Security**, where I'll start learning how to protect systems from potential attacks.
+
+---
+
+*Stay tuned for more updates as I continue my TryHackMe journey!*
+  
+  > Note: This journey is solely for ethical learning and skill development. All activities are performed in safe, controlled environments provided by TryHackMe.
